@@ -1,5 +1,9 @@
 # colab-poker
 
+<a href="https://colab.research.google.com/github/rirannda/colab-poker/blob/main/colab-poker.ipynb" target="_parent\">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 ## 概要
 
 本プログラムは、コンピュータと対戦できるファイブカードドローポーカーをPythonで実装したものです。プレイヤー1人とCPU3人の合計4人でゲームを行い、各プレイヤーに5枚のカードを配り、ベット・カード交換・再度のベット・勝敗判定という一連の流れを再現しています。
